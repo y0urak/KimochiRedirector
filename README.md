@@ -1,4 +1,4 @@
-# kimochi.info_redirector
+# KimochiRedirector
 Removes the 5-second timer that appears when downloading files from kimochi.info.
 
 ## Installation
