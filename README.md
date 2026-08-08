@@ -5,7 +5,7 @@ Removes the 5-second timer that appears when downloading files from kimochi.info
 ### Step 1: Install Tampermonkey
 First, make sure you have the Tampermonkey browser extension installed:
 - [Chrome Extension](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkbejkmfkbaoibobbdkmakgbmgkgd)
+- [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 - [Firefox Extension](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 ### Step 2: Install the Script
