@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         kimochi.info_redirector
+// @name         KimochiRedirector
 // @namespace    http://tampermonkey.net/
 // @version      2026-08-08
 // @description  try to take over the world!
