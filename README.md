@@ -10,3 +10,4 @@ First, make sure you have the **Tampermonkey** browser extension installed:
 
 ### Step 2: Install the Script
 Click the link below to open the Tampermonkey installation prompt:
+**[Click Here to Install Script](https://raw.githubusercontent.com/username/repository-name/main/script.user.js)**
